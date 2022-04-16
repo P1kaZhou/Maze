@@ -141,11 +141,6 @@ The departure case is red, arrival is green, empty is white, wall is black, path
 - ``labymogus11x10.txt`` is a non square-shaped maze (11 cases height and 10 cases width).
 - ``StressMaze.txt`` is a "maze" with illegal characters.
 
-## Git commits
-
-Unfortunately I was ***not*** familiar with git at the beginning of the year, and the first real commit is on ***january 7th***. Which means the total amount of actual commits should be *Total commits - 14*.
-*The 14 part comes from the pushes to the wrong depository I did.*
-
 ## *Need more information?*
 
 Please message me on ``daniel.zhou@telecom-paris.fr``
