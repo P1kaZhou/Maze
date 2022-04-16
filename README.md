@@ -1,4 +1,4 @@
-# Maze project - INF103 - ZHOU Daniel - Group 2
+# Maze project
 
 ## Packages
 
